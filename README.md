@@ -2,6 +2,7 @@
 ## CanvasList - linked list of shapes
 
 An implemented class that supports adding derived classes of the Shape class
+![Screenshot of the main struct of the linked list structure.](Project3Preview.PNG)
 
 ### Included Files:
 
